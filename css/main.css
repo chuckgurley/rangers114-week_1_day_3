@@ -1,0 +1,13 @@
+.logo-wrapper {
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: solid 1px #eee
+
+}
+
+.logo-wraper ing{
+    max-height: 100%;
+    max-width: 100%;
+}
